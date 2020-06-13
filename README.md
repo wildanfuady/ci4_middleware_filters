@@ -7,3 +7,5 @@ Misalnya kita membatasi akses CRUD dengan syarat harus login terlebih dahulu. Na
 Penasaran gimana cara buatnya?
   
 Inilah tutorial lengkap <em>step by step</em> cara membuat fitur <em>middleware </em>menggunakan <em>filters </em>di Codeigniter 4.
+
+Selengkapnya: https://ilmucoding.com/middleware-filters-codeigniter-4/
